@@ -6,4 +6,4 @@
 	url = https://github.com/gtk-rs/gir-files
 [submodule "gst-gir-files"]
 	path = gst-gir-files
-	url = https://gitlab.freedesktop.org/gstreamer/gir-files-rs.git
+	url = https://github.com/angeleye/gir-files-rs.git
